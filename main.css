@@ -1,0 +1,13 @@
+body{
+  background-color: red;
+}
+.card{
+  background:pink;
+  text-align: center;
+}
+h1{
+  color:blue;
+}
+img{
+  width: 30%;
+}
