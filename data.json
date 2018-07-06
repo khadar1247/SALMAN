@@ -1,0 +1,23 @@
+{
+  "baisc":{
+      "co":"to purse techical knowledge"
+  },
+
+
+  "education":
+  [
+    {
+    "name":"S S C",
+    "inst":"ZPH school",
+    "per":"80%"
+  },
+{
+  "name":"intermeditate",
+  "inst":"completed my schooling in intermeditate,char in 90%"
+},
+{
+  "name":"intermeditate",
+  "inst":"completed my schooling in intermeditate"
+}
+]
+}
